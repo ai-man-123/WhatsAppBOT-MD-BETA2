@@ -66,19 +66,19 @@ else {
                          /* EDIT THE BELOW VALUES TO MAKE IT YOUR OWN */
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let ownrnum =  ['0','447405935355'] // example: ['447405935435','911234567890','620987654321']
+let ownrnum =  ['0','60102810046'] // example: ['447405935435','911234567890','620987654321']
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let sudonum = ['0','447405935355'] // example: ['447405935435','911234567890','620987654321']
+let sudonum = ['0','60102810046'] // example: ['447405935435','911234567890','620987654321']
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let language_m = 'en'  // avalable: en: English; ml:Malayalam; gr:German; id:Indonesian; ar:Arabic 
+let language_m = 'id'  // avalable: en: English; ml:Malayalam; gr:German; id:Indonesian; ar:Arabic 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let stickker = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n,\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ '     // example: 'pack,author'
+let stickker = 'lynbot.bot'     // example: 'pack,author'
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let premiu = ['447405935355']
+let premiu = ['60102810046']
 //----------------------------------------------------------------------------------------------------------------------------------------------------- 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 let apikeyset = 'Your API Key'
@@ -96,7 +96,7 @@ let MainUrlButton2 = 'nill,nill'   // example: 'YouTube,youtube.com/alienalfa'
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 var autoTypingzz =false //auto tying in gc (true to on, false to off)
 var autoreadpmngczz = false //auto reading in gc and pm (true to on, false to off)
-var autoReadGczz = false //auto reading in gc (true to on, false to off)
+var autoReadGczz = true //auto reading in gc (true to on, false to off)
 var autoRecordzz = false //auto recording (true to on, false to off)
 var availablezz = true  //auto available (true to on, false to off)
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -106,29 +106,29 @@ var vidmenuzz = 'https://tenor.com/bC4cO.gif' //gif and video menu
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-var ownernamezz =  '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
-var ytnamezz = "YT: ALIENALFA"   //ur yt chanel name
-var socialmzz = "GitHub: Alien-Alfa"  //ur github or insta name
-var locationzz = "UK, London, hertfordshire"  //ur location
+var ownernamezz =  'lynxaiman' //ur owner name
+var ytnamezz = "-"   //ur yt chanel name
+var socialmzz = "GitHub: ai-man-123"  //ur github or insta name
+var locationzz = "seremban, Malaysia"  //ur location
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-var ownertagzz = '447405935355'   //ur tag number
-var botnamezz = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
-var linkzzz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
-var websitexzz = 'https://www.GITHUB.com/alien-alfa'  //ur website to be displayed
-var botscriptzz = 'https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2' //script link
-var reactmojizz = "😘" //ur menu react emoji
+var ownertagzz = '60102810046'   //ur tag number
+var botnamezz = "lynx 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+var linkzzz = 'lynxaiman.my.id' //your theme url which will be displayed on whatsapp
+var websitexzz = 'https://www.GITHUB.com/ai-man-123'  //ur website to be displayed
+var botscriptzz = 'https://github.com/ai-man-123/WhatsAppBot-MD-BETA2' //script link
+var reactmojizz = "🗿" //ur menu react emoji
 var themeemojizz = "🐤" //ur theme emoji
 var packnamezz = `${stickkerr[0]}` //ur sticker watermark packname
 var authorzz = `${stickkerr[1]}` //ur sticker watermark author
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-var thumzz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur thumb pic
+var thumzz = 'https://github.com/Alien-alfa/ai-man-123/blob/beta/Alfa.jpg?raw=true' //ur thumb pic
 var log0zz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur logo pic
 var err4rzz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur error pic
-var thumbzz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true' //ur thumb pic
+var thumbzz = 'https://github.com/ai-man-123' //ur thumb pic
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -155,8 +155,8 @@ global.menufont = '6'
 
 global.menubuttonz = [
 
-{ urlButton: { displayText: `ɪɴꜱᴛᴀɢʀᴀᴍ`, url: 'https://www.instagram.com/alienalfa/' } },
-{ urlButton: { displayText: `ʏᴏᴜᴛᴜʙᴇ`, url: 'https://youtube.com/c/alienalfa' } },
+{ urlButton: { displayText: `ɪɴꜱᴛᴀɢʀᴀᴍ`, url: 'https://www.instagram.com/aiman1_23' } },
+{ urlButton: { displayText: `My web`, url: 'lynxaiman.my.id' } },
 { quickReplyButton: { displayText: `All Menu `, id: 'allmenu'} },
 { quickReplyButton: { displayText: `List Menu `, id: 'command'} },
 { quickReplyButton: { displayText: `Ping `, id: 'ping'} }
@@ -204,7 +204,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 
-global.vcardowner = ['447405935355']                               //ur owner number
+global.vcardowner = ['60102810046']                               //ur owner number
 global.ownername = ownernamezz //'𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'                      //ur owner name
 global.ytname = ytnamezz //"YT: AlienAlfa"                         //ur yt chanel name
 global.socialm = socialmzz //"GitHub: Alien-Alfa"                  //ur github or insta name
